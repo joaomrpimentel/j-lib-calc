@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Environment variables
+.env
+.env.*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS specific
+.DS_Store
+
+# Optional npm cache directory
+.npm/
+
+# Coverage files
+coverage/
+
+# Lint cache
+.eslintcache
+
+# Test results
+*.log
+*.out
+*.tap
+
+# Ignore generated docs (if applicable)
+docs/
