@@ -14,6 +14,9 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
+  "publishConfig": {
+  "access": "public"
+  },
   "keywords": [
     "typescript",
     "library"
@@ -22,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/my-ts-library"
+    "url": "https://github.com/joaomrpimentel/j-lib-calc"
   },
   "bugs": {
-    "url": "https://github.com/your-username/my-ts-library/issues"
+    "url": "https://github.com/joaomrpimentel/j-lib-calc/issues"
   },
-  "homepage": "https://github.com/your-username/my-ts-library#readme",
+  "homepage": "https://github.com/joaomrpimentel/j-lib-calc#readme",
   "dependencies": {
     "tsup": "^8.3.5",
     "vitest": "^2.1.8"
