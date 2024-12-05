@@ -1,7 +1,7 @@
 {
-  "name": "JM-Calc-lib",
+  "name": "@joaomrpimentel/J-Calc",
   "version": "0.1.0",
-  "description": "J Simple Calculator Library",
+  "description": "Simple Calculator Library",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
