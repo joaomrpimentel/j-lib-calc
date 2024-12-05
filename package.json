@@ -1,5 +1,5 @@
 {
-  "name": "@joaomrpimentel/J-Calc",
+  "name": "@joaomrpimentel/j-calc",
   "version": "0.1.0",
   "description": "Simple Calculator Library",
   "main": "dist/index.js",
